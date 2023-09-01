@@ -1,0 +1,1 @@
+native os; class X {function new(this)             {          print("QQQ111"); print("XXXXX");            }                } function main() {  print("TEST"); print(os.name); if (1 > 2)        { print("XXX111"); if (10 > 5){ print("ZZZZZZZZZZZZ"); } }               X(); }       if (__name__ == '__main__') {           main(); }
